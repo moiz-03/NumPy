@@ -1,3 +1,3 @@
 # NumPy
 This repository contains the daily practices for NumPy.<br>
-Author-Moiz
+Author-Moiz (UCP)
